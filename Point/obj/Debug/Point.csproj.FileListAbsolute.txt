@@ -1,0 +1,6 @@
+C:\Users\karvm\source\repos\SnakeDraft\Point\bin\Debug\Point.exe.config
+C:\Users\karvm\source\repos\SnakeDraft\Point\bin\Debug\Point.exe
+C:\Users\karvm\source\repos\SnakeDraft\Point\bin\Debug\Point.pdb
+C:\Users\karvm\source\repos\SnakeDraft\Point\obj\Debug\Point.csprojAssemblyReference.cache
+C:\Users\karvm\source\repos\SnakeDraft\Point\obj\Debug\Point.exe
+C:\Users\karvm\source\repos\SnakeDraft\Point\obj\Debug\Point.pdb

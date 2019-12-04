@@ -1,0 +1,6 @@
+C:\Users\karvm\source\repos\SnakeDraft\SnakeDraft\obj\Debug\SnakeDraft.csprojAssemblyReference.cache
+C:\Users\karvm\source\repos\SnakeDraft\SnakeDraft\bin\Debug\SnakeDraft.exe.config
+C:\Users\karvm\source\repos\SnakeDraft\SnakeDraft\bin\Debug\SnakeDraft.exe
+C:\Users\karvm\source\repos\SnakeDraft\SnakeDraft\bin\Debug\SnakeDraft.pdb
+C:\Users\karvm\source\repos\SnakeDraft\SnakeDraft\obj\Debug\SnakeDraft.exe
+C:\Users\karvm\source\repos\SnakeDraft\SnakeDraft\obj\Debug\SnakeDraft.pdb
